@@ -5,4 +5,5 @@ DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN,ssh.github.com,DIRECT
