@@ -3,5 +3,6 @@ DOMAIN-SUFFIX,github.dev
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN,vscode-cdn.net
+DOMAIN-SUFFIX,vscode-cdn.net
+DOMAIN-SUFFIX,visualstudio.com
 DOMAIN,ssh.github.com,DIRECT
